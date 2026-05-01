@@ -1,0 +1,9 @@
+------ TICKET RECEIPT ------
+Ticket ID: ee43dfb7-28e7-448d-b301-677fb334e113
+Event ID: 632ed7e5-8c0b-4bfb-915b-b1c1f88341d4
+Seats: 3
+Amount: 1500.0
+Payment Status: SUCCESS
+Transaction ID: TXN1777582942986
+QR Code: 08ddf888-0
+

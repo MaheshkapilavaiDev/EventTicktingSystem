@@ -1,0 +1,6 @@
+---- EVENT REPORT ----
+Event ID: 632ed7e5-8c0b-4bfb-915b-b1c1f88341d4,Concert,Dance,2026,8pm,Hyd,100,100,500.0
+Total Bookings: 0
+Total Revenue: 0.0
+
+

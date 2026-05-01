@@ -1,0 +1,2 @@
+08763d12-99e3-48d0-95d0-ff11b0aff3df,Acting,dance,2026,8pm,Chennai,130,31,250.0
+16db7980-24b7-4588-a984-22c517ad2f37,SportsEvent,Cricket,2026,5pm,Hyderabad,120,40,500.0

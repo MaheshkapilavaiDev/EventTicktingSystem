@@ -1,6 +1,0 @@
----- EVENT REPORT ----
-Event ID: ,User,shivani@gmail.com,shivani@12345,2cabd85e-9271-4c87-a7e6-8fea846db99b
-Total Bookings: 0
-Total Revenue: 0.0
-
-

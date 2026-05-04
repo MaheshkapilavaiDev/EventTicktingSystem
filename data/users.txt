@@ -2,3 +2,9 @@
 f32b9d13-1e9b-4d1a-aef4-ee3f15a96d4b,User,chandankumar@gmail.com,chandan@12345,3dece09f-e532-4c9d-b206-11f32fa631db
 11fce268-f4d4-4a23-a689-ed2207474160,User,anilreddy@gmail.com,anil@12345,
 58a2da18-39e5-4557-9c4f-a427fcaab7f5,User,saireddy@gmail.com,sai@12345,b36bb21e-6acc-4f3e-8457-9fa49066f087
+bc42161c-a95b-4dd9-b8fb-86e7332b3103,User,sridhargoud@gmail.com,sridhar@12345,fb14e328-a04b-4872-a5b5-2b0fbb420dca
+51008075-ba75-4d03-9c06-ae15e0e3ea26,User,rakeshkumar@gmail.com,rakesh@12345,4f283d9b-16da-47fb-89b8-7278de0b6094
+309ad002-2c90-44ed-96fb-1d0c71d7345c,User,shivani@gmail.com,shivani@12345,2cabd85e-9271-4c87-a7e6-8fea846db99b
+ac740cc7-f1f8-4f76-8600-b8286ef063d8,User,nanigoud@gmail.com,nani@12345,24ba597f-023f-487a-b5eb-ffefbaa7287d
+368b1872-fefd-43f5-a8b5-0fbfffdd7305,User,seenu@gmail.com,seenu@12345,aa2e8033-cf63-46a3-ae0b-d050159bdd5c
+e734248f-7e68-4a77-bffe-f6c5655ea56c,User,naresh@gmail.com,naresh@12345,efe792ee-e024-4152-98b0-3953c0d2ea33

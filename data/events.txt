@@ -1,2 +1,5 @@
-08763d12-99e3-48d0-95d0-ff11b0aff3df,Acting,dance,2026,8pm,Chennai,130,31,250.0
+08763d12-99e3-48d0-95d0-ff11b0aff3df,Acting,dance,2026,8pm,Chennai,130,6,250.0
 16db7980-24b7-4588-a984-22c517ad2f37,SportsEvent,Cricket,2026,5pm,Hyderabad,120,40,500.0
+d955ad39-0c75-4ad2-bc65-2e13daabae9f,SingingConcert,Singing,2026,5pm,Hyderabad,110,5,500.0
+d7251284-728f-419f-9bc7-eb24ff50ad70,Election2026,partymeeting,2026,10am,Hyderabad,150,125,100.0
+8eb6c766-377d-437b-a9b4-849e752891b5,AudioFunction,movie,2026,11am,Hyderebad,100,25,500.0

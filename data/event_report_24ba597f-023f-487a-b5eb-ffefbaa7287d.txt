@@ -1,0 +1,6 @@
+---- EVENT REPORT ----
+Event ID: 24ba597f-023f-487a-b5eb-ffefbaa7287d
+Total Bookings: 0
+Total Revenue: 0.0
+
+

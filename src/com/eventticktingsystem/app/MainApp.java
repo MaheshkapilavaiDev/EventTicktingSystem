@@ -108,17 +108,18 @@ public class MainApp {
 						}
 						else if (a == 6) {
 
-						    String eventId = analyticsService.getMostBookedEventName();
+						    		
+							String eventId = analyticsService.getMostBookedEventId(); 
 
-						    Event event = eventService.getById(eventId);
+							if (eventId == null) {
+							    System.out.println("No bookings found!");
+							} else {
+							    Event event = eventService.getById(eventId);
 
-						    if (event == null) {
-						        System.out.println("❌ Event not found for ID: " + eventId);
-						    } else {
-						        System.out.println("📊 Most Booked Event:");
-						        System.out.println("ID: " + eventId);
-						        System.out.println("Name: " + event.getEventName());
-						    }
+							    System.out.println("Most Booked Event:");
+							    System.out.println("ID: " + eventId);
+							    System.out.println("Name: " + event.getEventName());
+							}
 						}
 
 						else if (a == 5)

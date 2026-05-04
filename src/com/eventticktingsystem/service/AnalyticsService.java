@@ -17,20 +17,18 @@ public class AnalyticsService {
 		this.events = events;
 	}
 
-	public String getMostBookedEventName() {
+	public String getMostBookedEventId() {
 
-		Map<String, Long> count = tickets.stream().filter(t -> t.getStatus().equals("BOOKED"))
-				.collect(Collectors.groupingBy(Ticket::getEventId, Collectors.counting()));
+	    Map<String, Long> count = tickets.stream()
+	        .filter(t -> "BOOKED".equals(t.getStatus()))
+	        .collect(Collectors.groupingBy(
+	            Ticket::getEventId,
+	            Collectors.counting()
+	        ));
 
-		String eventId = count.entrySet().stream().max(Map.Entry.comparingByValue()).map(Map.Entry::getKey)
-				.orElse(null);
-
-		if (eventId == null) {
-			return "No bookings found";
-		}
-
-		// 🔍 find event name
-		return events.stream().filter(e -> e.getEventId().equals(eventId)).map(Event::getEventName).findFirst()
-				.orElse("Unknown Event");
+	    return count.entrySet().stream()
+	        .max(Map.Entry.comparingByValue())
+	        .map(Map.Entry::getKey)
+	        .orElse(null);
 	}
 }
